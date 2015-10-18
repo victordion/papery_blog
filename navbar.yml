@@ -1,0 +1,7 @@
+- label: About me
+  href: /pages/about-me.html
+  target: _self
+
+- label: github
+  href: https://github.com/victordion
+  target: _blank

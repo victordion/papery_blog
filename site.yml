@@ -1,0 +1,25 @@
+title: Jianwei
+subtitle: Jianwei Space
+link: Homepage link
+meta:
+  description: myself
+  keywords: !!seq
+    - higher
+    - faster
+    - stronger
+  author: Content of author meta tag
+master:
+  name: Your name
+  about: Introduce yourself here
+  email: Your E-mail
+rss:
+  title: RSS feed title
+  desc: RSS feed description
+  lang: en
+  max: 10
+copyright:
+  owner: Copyrighter
+  beginYear: 2015
+  endYear: 2015
+theme: default
+codetheme: night

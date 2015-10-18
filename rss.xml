@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>RSS feed title</title>
+        <link>Homepage link</link>
+        <description>RSS feed description</description>
+        <lastBuildDate>Sun, 18 Oct 2015 04:39:23 +0800</lastBuildDate>
+        <language>en</language>
+        
+        <item>
+            <title>just-blah</title>
+            <link>Homepage link/articles/just-blah.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rss</link>
+            <guid>Homepage link/articles/just-blah.html</guid>
+            <author>Your E-mail Your name</author>
+            <pubDate>Sun, 18 Oct 2015 00:00:00 +0800</pubDate>
+            <description>&lt;p&gt;This is just a blah&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

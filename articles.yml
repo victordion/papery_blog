@@ -1,0 +1,8 @@
+- id: just-blah
+  title: just-blah
+  postedOn: !!str 2015-10-18
+  author: Victor
+  tags:
+    - nonsense
+    - test
+  abstract: really nothing here
